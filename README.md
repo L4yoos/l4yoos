@@ -66,9 +66,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/l4yoos/l4yoos/output/snake.svg" alt="Snake animation" />
-
-###
