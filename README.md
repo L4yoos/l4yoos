@@ -75,6 +75,8 @@
   <img src="https://img.shields.io/badge/Apache Kafka-231F20?logo=apachekafka&logoColor=white&style=for-the-badge" height="40" alt="apachekafka logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" height="40" alt="githubactions logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" height="40" alt="kubernetes logo"  />
 </div>
 
 ###
