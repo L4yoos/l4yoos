@@ -77,6 +77,9 @@
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" height="40" alt="githubactions logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" height="40" alt="kubernetes logo"  />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black&style=for-the-badge" height="30" alt="Swagger logo" />
+  <img src="https://img.shields.io/badge/JUnit5-25A642?logo=junit5&logoColor=white&style=for-the-badge" height="30" alt="JUnit logo" />
+  <img src="https://img.shields.io/badge/Mockito-3776AB?logo=mockito&logoColor=white&style=for-the-badge" height="30" alt="Mockito logo" />
 </div>
 
 ###
