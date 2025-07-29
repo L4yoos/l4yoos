@@ -80,6 +80,9 @@
   <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black&style=for-the-badge" height="30" alt="Swagger logo" />
   <img src="https://img.shields.io/badge/JUnit5-25A642?logo=junit5&logoColor=white&style=for-the-badge" height="30" alt="JUnit logo" />
   <img src="https://img.shields.io/badge/Mockito-3776AB?logo=mockito&logoColor=white&style=for-the-badge" height="30" alt="Mockito logo" />
+  <img src="https://img.shields.io/badge/Prometheus-342345?logo=Prometheus&logoColor=white&style=for-the-badge" height="30" alt="Prometheus logo" />
+  <img src="https://img.shields.io/badge/Grafana-342345?logo=Grafana&logoColor=white&style=for-the-badge" height="30" alt="Grafana logo" />
+
 </div>
 
 ###
