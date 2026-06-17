@@ -10,3 +10,5 @@ I'm Konrad, a self-taught Java enthusiast from Poland 🇵🇱
 ### 🛠️ Technologies and tools I've worked with:
 - Java 17
 - HTML / CSS
+- MySQL
+- JavaScript
